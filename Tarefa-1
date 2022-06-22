@@ -1,0 +1,18 @@
+andreluisquezadooliveira@MacBook-Air-de-Andre tarefa-dia-1 % history
+   34  ls
+   35  cd Desktop
+   36  mkdir dia-1-primeiros-passos
+   37  ls
+   38  cd dia-1-primeiros-passos
+   39  mkdir tarefa-dia-1
+   40  ls
+   41  cd tarefa-dia-1
+   42  touch resumo-dia-1.md
+   43  head -5
+   44  ls
+   45  head -5 resumo-dia-1.md
+   46  head -3 resumo-dia-1.md
+   47  head -4 resumo-dia-1.md
+   48  grep programação resumo-dia-1.md
+   49  pwd
+andreluisquezadooliveira@MacBook-Air-de-Andre tarefa-dia-1 % 
